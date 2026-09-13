@@ -1,0 +1,6 @@
+- Found trail of destruction leading to temple. Armor in temple was recovered.
+- Moved to a cave and met a Browl and her cubs. During the night heard tentacled stalkers.
+- Tracked them - found evil raccoon. Found disarmed guard. Found house full of tentacle bois and had a hell of a fight. [[Kath]] and [[Hale]] got the crap walloped out of them. [[Rakunbak|Rakunbak]] showed his dark side again and was stung by healing magic as he also summoned dread magic and horrors.
+- [[Rakunbak|Rakunbak]] reacts badly to the name [[Alu'thir|Alu’thir]] and acts out as dead boy. Including trying to proclaim himself as a follower of A but took damage and started coughing blood.
+- Next day tracked new monsters into a steppes area as we catch sight of the [[Sacred Pyre|pyre]].
+- A quick combat ensues and leaves a final boss in the cave.
