@@ -2,8 +2,6 @@
 title: The Veiled Gods
 ---
 
-# The Veiled Gods
-
 Welcome to the **Age of Umbra** campaign archive: a connected guide to the people, places, factions, discoveries, and sessions of our world.
 
 ![[Known World Map.png]]
@@ -18,4 +16,4 @@ Welcome to the **Age of Umbra** campaign archive: a connected guide to the peopl
 - [[Items]] — Artifacts, books, and other important discoveries.
 - [[Spells and Abilities]] — Remarkable magic used during the campaign.
 
-Use the search button to find anything by name, or open the interactive graph to explore how the campaign’s notes connect.
+Use the search button to find anything by name, or browse the categories above to explore how the campaign’s notes connect.
