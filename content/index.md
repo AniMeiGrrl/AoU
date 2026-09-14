@@ -4,6 +4,10 @@ title: The Veiled Gods
 
 Welcome to the **Age of Umbra** campaign archive: a connected guide to the people, places, factions, discoveries, and sessions of our world.
 
+![[Party Portrait.png]]
+
+Meet [[Kath]], [[Daxu]], [[Aonghus]], [[Hale]] (and Rune), [[Rakunbak]], and [[Daikes]].
+
 ![[Known World Map.png]]
 
 ## Explore the World
