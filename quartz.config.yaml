@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Age of Umbra
-  pageTitleSuffix: " — Campaign Archive"
+  pageTitle: The Veiled Gods
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
@@ -221,7 +221,7 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
@@ -229,7 +229,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

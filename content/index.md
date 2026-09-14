@@ -1,6 +1,10 @@
-# Age of Umbra
+---
+title: The Veiled Gods
+---
 
-Welcome to our campaign archive: a connected guide to the people, places, factions, discoveries, and sessions of **Age of Umbra**.
+# The Veiled Gods
+
+Welcome to the **Age of Umbra** campaign archive: a connected guide to the people, places, factions, discoveries, and sessions of our world.
 
 ![[Known World Map.png]]
 
