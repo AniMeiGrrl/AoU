@@ -1,6 +1,6 @@
 ---
 title: The Veiled Gods
-latestSession: "2026-09-26"
+latestSession: "2026-09-27"
 lastUpdated: "2026-09-27"
 ---
 

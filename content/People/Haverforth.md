@@ -21,7 +21,7 @@ The group in Tempest believes that Haverforth is much more than a simple Clank. 
 - He caused the blight upon Tempest—or at least knows how to cure it.
 - He corrupted the Guardian in the Temple.
 - He was looking for children's fables and stories. (which is what led him to Kath's grove)
-- He rides [[Drog]] like a mecha. [[2026-09-26 Game Notes]]
+- He rides [[Drog]] like a mecha. [[2026-09-27 Game Notes]]
 - 
 
 The group is convinced that children's fables found in the Tempest library contain a hidden message about him.

@@ -8,5 +8,5 @@ A player character in the Age of Umbra campaign.
 
 ###### Appears in
 
-- [[2026-09-26 Game Notes]]
+- [[2026-09-27 Game Notes]]
 - [[2026-09-13 Game Notes]]
