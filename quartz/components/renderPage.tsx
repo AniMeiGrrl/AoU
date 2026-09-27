@@ -1,6 +1,7 @@
 import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import BodyConstructor from "./Body"
+import CampaignStatus from "./CampaignStatus"
 import {
   CSSResource,
   JSResource,
@@ -358,7 +359,7 @@ export function renderPage(
                 beforeBody,
                 pageBody: Content,
                 afterBody,
-                left,
+                left: slug === "index" ? [left[0], CampaignStatus, ...left.slice(1)] : left,
                 right,
                 footer,
               }),

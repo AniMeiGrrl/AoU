@@ -20,8 +20,8 @@ if sessions:
     updated = f"{today:%B} {today.day}, {today.year}"
     homepage = Path("content/index.md")
     text = homepage.read_text()
-    text = re.sub(r"^\*\*Latest session:\*\*.*$", f"**Latest session:** [[{latest}|{label}]]  ", text, flags=re.M)
-    text = re.sub(r"^\*\*Last updated:\*\*.*$", f"**Last updated:** {updated}", text, flags=re.M)
+    text = re.sub(r"^latestSession:.*$", f'latestSession: "{latest[:10]}"', text, flags=re.M)
+    text = re.sub(r"^lastUpdated:.*$", f'lastUpdated: "{today.isoformat()}"', text, flags=re.M)
     homepage.write_text(text)
 PYTHON
 

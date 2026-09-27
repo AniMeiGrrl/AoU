@@ -1,5 +1,7 @@
 ---
 title: The Veiled Gods
+latestSession: "2026-09-26"
+lastUpdated: "2026-09-27"
 ---
 
 Welcome to the **Age of Umbra** campaign archive: a connected guide to the people, places, factions, discoveries, and sessions of our world.
@@ -7,9 +9,6 @@ Welcome to the **Age of Umbra** campaign archive: a connected guide to the peopl
 ![[Party Portrait.png]]
 
 Meet [[Kath]], [[Daxu]], [[Aonghus]], [[Hale]] (and Rune), [[Rakunbak]], and [[Daikes]].
-
-**Latest session:** [[2026-09-26 Game Notes|September 26, 2026]]  
-**Last updated:** September 27, 2026
 
 ![[Known World Map.png]]
 
