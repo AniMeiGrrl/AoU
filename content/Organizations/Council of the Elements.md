@@ -8,6 +8,8 @@ The Council of the Elements governs [[Tempest]]. Its current members were electe
 - [[Rundral]] — Fire Councilor
 - [[Ves'saruun]] — Water Councilor and Tidal Mage
 
+See [[History Timeline]] for the illustrated chronology.
+
 ###### Appears in
 
 - [[2026-09-13 Game Notes]]

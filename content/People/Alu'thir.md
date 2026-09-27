@@ -32,7 +32,10 @@ Accounts of the **Erasure** say religious and political authorities struck his n
 
 Stories of his surviving influence speak of protective hymns, hidden sacred texts, healing bloodlines, and quiet networks of worshippers. The **Keepers of Dawn** are said to tend concealed shrines; the **Unnamed** continue the Flamebearers' work without invoking his name; and the **Hollow Candles** keep the Vigil in secret. Reported signs of his presence include unexplained light amid suffering, healers who vanish after helping strangers, and flames that refuse to go out.
 
+See [[History Timeline]] for the illustrated chronology.
+
 ###### Appears in
 
+- [[2026-09-26 Game Notes]]
 - [[2026-09-13 Game Notes]]
 - [[2026-05-09 Game Notes]]
